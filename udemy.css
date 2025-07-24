@@ -1,9 +1,11 @@
 p {
   color: red;
+  background-color: magenta;
 }
 
 a {
   color: cyan;
+  background-color: olive;
 }
 
 h2 {
