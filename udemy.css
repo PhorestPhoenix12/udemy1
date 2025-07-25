@@ -16,3 +16,10 @@ h1 {
   color: teal;
 }
 
+div {
+  color: red;
+  border: 1px solid blue;
+}
+p {
+  border: inherit;
+}
